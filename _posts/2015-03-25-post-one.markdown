@@ -6,9 +6,3 @@ categories: jekyll github
 ---
 Installation of jekyll done. Documentation is just awesome.
 
-{% highlight java %}
-public static void main (String[] args) {
-    System.out.println("Hello World");
-}
-#=> prints 'Hello Worl' to STDOUT.
-{% endhighlight %}
