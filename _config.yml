@@ -9,3 +9,5 @@ github_username:  saichand
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-midnight
