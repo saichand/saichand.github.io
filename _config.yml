@@ -1,13 +1,13 @@
 # Site settings
-title: Confessions of a developer mind
+title: Notes from a Builder’s Mind
 description: > # this means to ignore newlines until "baseurl:"
-  Random ramblings of a random developer
+  Where ideas meet execution
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://saichand.github.io/" # the base hostname & protocol for your site
-twitter_username: sinkercat
-github_username:  saichand
+instagram_username: saishankar
+linkedin_username: saichandrasekharan
 
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-tactile
