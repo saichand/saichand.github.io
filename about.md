@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-##Builder. Tinkerer. Problem solver.##
+## Builder. Tinkerer. Problem Solver.
 
 I believe good products are felt more than noticed. They get out of the way, respect the user, and quietly do their job well.
 
