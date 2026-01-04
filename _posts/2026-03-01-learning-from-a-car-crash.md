@@ -13,7 +13,7 @@ The test drive didn’t go as hoped. The family wasn’t impressed. The car didn
 
 A few days later, my wife was involved in a crash.
 
-She was shaken but physically okay, which mattered most. What she wasn’t was certain. She doesn’t remember every detail of the incident clearly—but she also doesn’t believe she was responsible. That ambiguity stayed with us through everything that followed.
+She was shaken but physically okay, which mattered most. What she wasn’t was certain. She doesn’t remember every detail of the incident clearly, but she also doesn’t believe she was responsible. That ambiguity stayed with us through everything that followed.
 
 # The CHP report: provisional, then final
 
@@ -55,7 +55,7 @@ One thing I hadn’t appreciated before: there isn’t just one adjuster.
 
 Those are parallel conversations.
 
-When I spoke with the damage adjuster, details mattered. I had to explicitly explain the brand new tires and the recent timing belt replacement—repairs made just days earlier because we had decided to keep the car.
+When I spoke with the damage adjuster, details mattered. I had to explicitly explain the brand new tires and the recent timing belt replacement, repairs made just days earlier because we had decided to keep the car.
 
 Those details didn’t change the direction of the outcome, but they improved its accuracy. And accuracy, I learned, is often the most realistic goal.
 
